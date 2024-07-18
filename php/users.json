@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "email": "nicole@gmail.com",
+        "name": "Nicole Marcellana",
+        "dob": "2003-03-08",
+        "username": "nicole",
+        "password": "$2y$10$OfJh5FbxFsLYNSy4PclZCeWb.tHTQUxkfhatuicpDlFxm1PUDaVRi"
+    },
+    {
+        "id": 2,
+        "email": "hello@gmail.com",
+        "name": "nicole",
+        "dob": "2003-03-08",
+        "username": "nicole",
+        "password": "$2y$10$Q8nHGYtUwsCe2Hr6MDpTVum5LIQ\/I.fCuh5ixhyH18XhKQZVh9zE6"
+    }
+]
